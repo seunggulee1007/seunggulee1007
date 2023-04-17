@@ -1,13 +1,37 @@
-### Skils
+### Skills
 <div style="display:flex;align-items:center; justify-content:space-around; align-items:stretch">
-  <img src="https://img.shields.io/badge/Jenkins-green?style=social&logo=Jenkins&logoColor=CC6699"/>
-  <img src="https://img.shields.io/badge/Spring-green?style=social&logo=spring&logoColor=CC6699"/>
-  <img src="https://img.shields.io/badge/Spring Boot-green?style=social&logo=Spring Boot&logoColor=CC6699"/>
-  <img src="https://img.shields.io/badge/Spring Security-green?style=social&logo=spring security&logoColor=CC6699"/>
-  <img src="https://img.shields.io/badge/Harbor-green?style=social&logo=harbor&logoColor=CC6699"/>
-  <img src="https://img.shields.io/badge/GitLab-green?style=social&logo=gitlab&logoColor=CC6699"/>
-  <img src="https://img.shields.io/badge/GitHub-green?style=social&logo=github&logoColor=CC6699"/>
-  <img src="https://img.shields.io/badge/Docker-green?style=social&logo=docker&logoColor=CC6699"/>
+  <img src="https://img.shields.io/badge/JAVA-red?style=for-the-badge&logo=OpenJDK&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white">
+  <img src="https://img.shields.io/badge/Hibernate-grey?style=for-the-badge&logo=Hibernate&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
+
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-61DAFB?style=for-the-badge&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/flyway-E34F26?style=for-the-badge&logo=flyway&logoColor=white">
+  <img src="https://img.shields.io/badge/nginx-1572B6?style=for-the-badge&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/gitlab-7952B3?style=for-the-badge&logo=gitlab&logoColor=white">
+
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+</div>
+
+--- 
+
+<div>
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunggulee1007&show_icons=true&theme=shades-of-purple)
+
+--- 
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunggulee1007)](https://github.com/seunggulee1007/github-readme-stats)
 </div>
 <!--
 **seunggulee1007/seunggulee1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
