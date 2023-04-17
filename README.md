@@ -1,5 +1,14 @@
-### Hi there 👋
-
+### Skils
+<div style="display:flex;align-items:center; justify-content:space-around; align-items:stretch">
+  <img src="https://img.shields.io/badge/Jenkins-green?style=social&logo=Jenkins&logoColor=CC6699"/>
+  <img src="https://img.shields.io/badge/Spring-green?style=social&logo=spring&logoColor=CC6699"/>
+  <img src="https://img.shields.io/badge/Spring Boot-green?style=social&logo=Spring Boot&logoColor=CC6699"/>
+  <img src="https://img.shields.io/badge/Spring Security-green?style=social&logo=spring security&logoColor=CC6699"/>
+  <img src="https://img.shields.io/badge/Harbor-green?style=social&logo=harbor&logoColor=CC6699"/>
+  <img src="https://img.shields.io/badge/GitLab-green?style=social&logo=gitlab&logoColor=CC6699"/>
+  <img src="https://img.shields.io/badge/GitHub-green?style=social&logo=github&logoColor=CC6699"/>
+  <img src="https://img.shields.io/badge/Docker-green?style=social&logo=docker&logoColor=CC6699"/>
+</div>
 <!--
 **seunggulee1007/seunggulee1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
