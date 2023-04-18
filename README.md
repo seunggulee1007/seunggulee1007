@@ -1,4 +1,7 @@
-### Skills
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Seunggu's%20Page&fontSize=90)
+
+## Skills
 <div style="display:flex;align-items:center; justify-content:space-around; align-items:stretch">
   <img src="https://img.shields.io/badge/JAVA-red?style=for-the-badge&logo=OpenJDK&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -26,15 +29,17 @@
 --- 
 
 <div>
- 
+
+## My Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunggulee1007&show_icons=true&theme=shades-of-purple)
 
 --- 
-  
+
+## My Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunggulee1007)](https://github.com/seunggulee1007/github-readme-stats)
   
   
-
+## BackJun
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=leesg107)](https://solved.ac/leesg107)
   
 </div>
