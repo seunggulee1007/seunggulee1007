@@ -32,7 +32,13 @@
 --- 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunggulee1007)](https://github.com/seunggulee1007/github-readme-stats)
+  
+  
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=leesg107)](https://solved.ac/leesg107)
+  
 </div>
+
 <!--
 **seunggulee1007/seunggulee1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
