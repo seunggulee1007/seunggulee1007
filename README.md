@@ -7,7 +7,7 @@
   <div>
     <img src="https://img.shields.io/badge/JAVA-red?style=for-the-badge&logo=OpenJDK&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=SpringCloud&logoColor=white">
+    <img src="https://img.shields.io/badge/SpringCloud-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
     <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white">
     <img src="https://img.shields.io/badge/Hibernate-grey?style=for-the-badge&logo=Hibernate&logoColor=white">
