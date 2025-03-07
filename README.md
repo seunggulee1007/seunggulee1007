@@ -43,8 +43,8 @@
 
 --- 
 
-## My Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunggulee1007)](https://github.com/seunggulee1007)
+<!--## My Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunggulee1007)](https://github.com/seunggulee1007) -->
   
   
 ## BackJun
