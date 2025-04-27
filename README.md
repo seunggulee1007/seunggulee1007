@@ -16,7 +16,9 @@
     <img src="https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/firebase-61DAFB?style=plastic&logo=firebase&logoColor=black">
     <img src="https://img.shields.io/badge/mariaDB-003545?style=plastic&logo=mariaDB&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white"/>
     <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
   </div>
   
   <p>FrontEnd</p>
@@ -27,13 +29,13 @@
   </div>
   <p>DevOps</p>
   <div>
-    <img src="https://img.shields.io/badge/nginx-1572B6?style=plastic&logo=nginx&logoColor=white">
+    <img src="https://img.shields.io/badge/nginx-009639?style=plastic&logo=nginx&logoColor=white">
     <img src="https://img.shields.io/badge/gitlab-7952B3?style=plastic&logo=gitlab&logoColor=white">
     <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/linux-FCC624?style=plastic&logo=linux&logoColor=black">
-    <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=Aws&logoColor=white">
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Harbor-60B932?style=flat&logo=Harbor&logoColor=white"/>
   </div>
 </div>
 
