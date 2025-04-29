@@ -42,11 +42,13 @@
 --- 
 
 <div>
-
+  
+## My Contributes
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=seunggulee1007&theme=github-compact&custom_title=seunggu's%20Contribution%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+--- 
+  
 ## My Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunggulee1007&show_icons=true&theme=solarized-light)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=seunggulee1007&theme=github-compact&custom_title=seunggu's%20Contribution%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 --- 
 
