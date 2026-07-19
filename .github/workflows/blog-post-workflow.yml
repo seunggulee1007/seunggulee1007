@@ -19,6 +19,8 @@ jobs:
           feed_list: "https://leesg107.tistory.com/rss"
           # 티스토리는 Accept: application/rss+xml 요청을 406으로 거부함
           accept_header: "*/*"
+          # 티스토리 RSS 가 제목을 이미 HTML 인코딩해 두므로 재인코딩하지 않음
+          disable_html_encoding: true
           max_post_count: 5
           date_format: "yyyy-mm-dd"
           template: "- [$title]($url) · $date $newline"
