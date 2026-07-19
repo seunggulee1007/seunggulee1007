@@ -17,6 +17,8 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://leesg107.tistory.com/rss"
+          # 티스토리는 Accept: application/rss+xml 요청을 406으로 거부함
+          accept_header: "*/*"
           max_post_count: 5
           date_format: "yyyy-mm-dd"
           template: "- [$title]($url) · $date $newline"
