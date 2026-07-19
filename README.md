@@ -24,27 +24,28 @@ Java / Kotlin / Spring 기반으로 서비스를 만들며, **대규모 시스�
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white">
       <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat&logo=Spring&logoColor=white">
       <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=SpringSecurity&logoColor=white">
-      <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white">
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white">
+      <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white">
+      <img src="https://img.shields.io/badge/QueryDSL-0769AD?style=flat">
+      <img src="https://img.shields.io/badge/MyBatis-000000?style=flat">
+    </td>
+  </tr>
+  <tr>
+    <th align="left">Database · Messaging</th>
+    <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
       <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariaDB&logoColor=white">
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
-      <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat&logo=flyway&logoColor=white">
-      <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white">
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white">
+      <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white">
       <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white">
       <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white">
+      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white">
+      <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat&logo=flyway&logoColor=white">
+      <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white">
     </td>
   </tr>
   <tr>
-    <th align="left">FrontEnd</th>
-    <td>
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-      <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <th align="left">DevOps</th>
+    <th align="left">DevOps · Monitoring</th>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
       <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white">
@@ -53,6 +54,19 @@ Java / Kotlin / Spring 기반으로 서비스를 만들며, **대규모 시스�
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
       <img src="https://img.shields.io/badge/Harbor-60B932?style=flat&logo=Harbor&logoColor=white">
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white">
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat">
+    </td>
+  </tr>
+  <tr>
+    <th align="left">FrontEnd</th>
+    <td>
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white">
+      <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt&logoColor=white">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white">
     </td>
   </tr>
 </table>
