@@ -23,4 +23,5 @@ jobs:
           disable_html_encoding: true
           max_post_count: 5
           date_format: "yyyy-mm-dd"
-          template: "- [$title]($url) · $date $newline"
+          # $newline 을 앞에 둬서 첫 항목이 START 마커와 같은 줄에 붙지 않도록 함
+          template: "$newline- [$title]($url) · $date"
