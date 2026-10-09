@@ -117,7 +117,11 @@ Java / Kotlin / Spring 기반으로 서비스를 만들며, **대규모 시스�
 
 ## 🌱 My Contributes
 
-[![Seunggu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=seunggulee1007&theme=github-compact&custom_title=seunggu's%20Contribution%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://raw.githubusercontent.com/seunggulee1007/seunggulee1007/output/activity-graph.svg?v=1" alt="seunggulee1007 github activity graph">
+</a>
+
+<!-- [![Seunggu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=seunggulee1007&theme=github-compact&custom_title=seunggu's%20Contribution%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=seunggulee1007&hide_border=true)](https://git.io/streak-stats)
 
