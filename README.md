@@ -110,7 +110,7 @@ Java / Kotlin / Spring 기반으로 서비스를 만들며, **대규모 시스�
 - [01 &middot; 도메인 &mdash; `packages/garden_domain/`](https://leesg107.tistory.com/190) · 2026-09-09
 - [00 &middot; 전체 지도](https://leesg107.tistory.com/189) · 2026-09-09
 - [[Momently 개발기 #10&middot;完] 혼자 개발하면서 ADR을 쓰는 이유 &mdash; 운영과 회고](https://leesg107.tistory.com/188) · 2026-07-19
-- [Momently 개발기 #9] 자동 발행은 왜 안 되는가 &mdash; 네이버 발행과 브라우저 확장](https://leesg107.tistory.com/187) · 2026-07-19
+- [[Momently 개발기 #9] 자동 발행은 왜 안 되는가 &mdash; 네이버 발행과 브라우저 확장](https://leesg107.tistory.com/187) · 2026-07-19
 - [[Momently 개발기 #8] 사진 속 단어 하나에 글 전체가 납치당했다 &mdash; 사용자 의도와 프롬프트 우선순위](https://leesg107.tistory.com/186) · 2026-07-19<!-- BLOG-POST-LIST:END -->
 
 ---
