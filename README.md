@@ -79,24 +79,24 @@ Java / Kotlin / Spring 기반으로 서비스를 만들며, **대규모 시스�
   <tr>
     <td>
       <a href="https://github.com/with-co-talk/co-talk">
-        <img src="https://gh-card.dev/repos/with-co-talk/co-talk.svg?fullname">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=with-co-talk&repo=co-talk&show_owner=true">
       </a>
     </td>
     <td>
       <a href="https://github.com/seunggulee1007/TossPayments">
-        <img src="https://gh-card.dev/repos/seunggulee1007/TossPayments.svg">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=seunggulee1007&repo=TossPayments">
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/innercicle-be-rate-limiter/rate-limiter-spring-boot-starter">
-        <img src="https://gh-card.dev/repos/innercicle-be-rate-limiter/rate-limiter-spring-boot-starter.svg?fullname">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=innercicle-be-rate-limiter&repo=rate-limiter-spring-boot-starter&show_owner=true">
       </a>
     </td>
     <td>
       <a href="https://github.com/seunggulee1007/hello-search-api">
-        <img src="https://gh-card.dev/repos/seunggulee1007/hello-search-api.svg">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=seunggulee1007&repo=hello-search-api">
       </a>
     </td>
   </tr>
