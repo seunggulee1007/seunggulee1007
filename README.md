@@ -107,11 +107,11 @@ Java / Kotlin / Spring 기반으로 서비스를 만들며, **대규모 시스�
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [01 &middot; 도메인 &mdash; `packages/garden_domain/`](https://leesg107.tistory.com/190) · 2026-09-09
-- [00 &middot; 전체 지도](https://leesg107.tistory.com/189) · 2026-09-09
-- [[Momently 개발기 #10&middot;完] 혼자 개발하면서 ADR을 쓰는 이유 &mdash; 운영과 회고](https://leesg107.tistory.com/188) · 2026-07-19
-- [Momently 개발기 #9] 자동 발행은 왜 안 되는가 &mdash; 네이버 발행과 브라우저 확장](https://leesg107.tistory.com/187) · 2026-07-19
-- [[Momently 개발기 #8] 사진 속 단어 하나에 글 전체가 납치당했다 &mdash; 사용자 의도와 프롬프트 우선순위](https://leesg107.tistory.com/186) · 2026-07-19<!-- BLOG-POST-LIST:END -->
+- <a href="https://leesg107.tistory.com/206">Claude Code로 앱 하나를 만든다는 것 &mdash; 에이전트 여럿, worktree 여럿, 그리고 사고들 &mdash; ReviewGate 개발기 12편</a> · 2026-11-17
+- <a href="https://leesg107.tistory.com/205">리뷰가 끝나면 커밋 &mdash; 받아들인 것만, 의미 단위로, PR까지 &mdash; ReviewGate 개발기 11편</a> · 2026-11-17
+- <a href="https://leesg107.tistory.com/204">개인 앱을 '받아서 쓸 수 있는 앱'으로 &mdash; 서명&middot;공증&middot;앱 안 업데이트 &mdash; ReviewGate 개발기 10편</a> · 2026-11-17
+- <a href="https://leesg107.tistory.com/203">채팅 UI를 내려놓고 진짜 터미널을 넣기로 &mdash; hook 실험과 한글 입력 실험 &mdash; ReviewGate 개발기 9편</a> · 2026-11-17
+- <a href="https://leesg107.tistory.com/202">터미널에서 되는 건 앱에서도 &mdash; Claude Code 따라잡기와 그 한계 &mdash; ReviewGate 개발기 8편</a> · 2026-11-17<!-- BLOG-POST-LIST:END -->
 
 ---
 
