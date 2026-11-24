@@ -107,11 +107,11 @@ Java / Kotlin / Spring 기반으로 서비스를 만들며, **대규모 시스�
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- <a href="https://leesg107.tistory.com/206">Claude Code로 앱 하나를 만든다는 것 &mdash; 에이전트 여럿, worktree 여럿, 그리고 사고들 &mdash; ReviewGate 개발기 12편</a> · 2026-11-17
-- <a href="https://leesg107.tistory.com/205">리뷰가 끝나면 커밋 &mdash; 받아들인 것만, 의미 단위로, PR까지 &mdash; ReviewGate 개발기 11편</a> · 2026-11-17
-- <a href="https://leesg107.tistory.com/204">개인 앱을 '받아서 쓸 수 있는 앱'으로 &mdash; 서명&middot;공증&middot;앱 안 업데이트 &mdash; ReviewGate 개발기 10편</a> · 2026-11-17
-- <a href="https://leesg107.tistory.com/203">채팅 UI를 내려놓고 진짜 터미널을 넣기로 &mdash; hook 실험과 한글 입력 실험 &mdash; ReviewGate 개발기 9편</a> · 2026-11-17
-- <a href="https://leesg107.tistory.com/202">터미널에서 되는 건 앱에서도 &mdash; Claude Code 따라잡기와 그 한계 &mdash; ReviewGate 개발기 8편</a> · 2026-11-17<!-- BLOG-POST-LIST:END -->
+- <a href="https://leesg107.tistory.com/207">진짜 Claude Code를 앱 안에 띄웠더니: 터미널 채팅 개편기 | ReviewGate 개발기 13편</a> · 2026-11-20
+- <a href="https://leesg107.tistory.com/206">Claude Code로 앱 하나를 만든다는 것: 에이전트 여럿, worktree 여럿, 그리고 사고들 | ReviewGate 개발기 12편</a> · 2026-11-17
+- <a href="https://leesg107.tistory.com/205">리뷰가 끝나면 커밋: 받아들인 것만, 의미 단위로, PR까지 | ReviewGate 개발기 11편</a> · 2026-11-17
+- <a href="https://leesg107.tistory.com/204">개인 앱을 '받아서 쓸 수 있는 앱'으로: 서명&middot;공증&middot;앱 안 업데이트 | ReviewGate 개발기 10편</a> · 2026-11-17
+- <a href="https://leesg107.tistory.com/203">채팅 UI를 내려놓고 진짜 터미널을 넣기로: hook 실험과 한글 입력 실험 | ReviewGate 개발기 9편</a> · 2026-11-17<!-- BLOG-POST-LIST:END -->
 
 ---
 
