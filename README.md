@@ -107,11 +107,11 @@ Java / Kotlin / Spring 기반으로 서비스를 만들며, **대규모 시스�
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- <a href="https://leesg107.tistory.com/207">진짜 Claude Code를 앱 안에 띄웠더니: 터미널 채팅 개편기 | ReviewGate 개발기 13편</a> · 2026-11-20
-- <a href="https://leesg107.tistory.com/206">Claude Code로 앱 하나를 만든다는 것: 에이전트 여럿, worktree 여럿, 그리고 사고들 | ReviewGate 개발기 12편</a> · 2026-11-17
-- <a href="https://leesg107.tistory.com/205">리뷰가 끝나면 커밋: 받아들인 것만, 의미 단위로, PR까지 | ReviewGate 개발기 11편</a> · 2026-11-17
-- <a href="https://leesg107.tistory.com/204">개인 앱을 '받아서 쓸 수 있는 앱'으로: 서명&middot;공증&middot;앱 안 업데이트 | ReviewGate 개발기 10편</a> · 2026-11-17
-- <a href="https://leesg107.tistory.com/203">채팅 UI를 내려놓고 진짜 터미널을 넣기로: hook 실험과 한글 입력 실험 | ReviewGate 개발기 9편</a> · 2026-11-17<!-- BLOG-POST-LIST:END -->
+- <a href="https://leesg107.tistory.com/217">리뷰 앱이 IDE와 터미널을 닮아 갈 때: 새로 넣은 것들 | ReviewGate 개발기 17편</a> · 2026-11-25
+- <a href="https://leesg107.tistory.com/216">수락도 안 했는데 계속 고치고 있었다: 리뷰 관문 다시 조이기 | ReviewGate 개발기 16편</a> · 2026-11-25
+- <a href="https://leesg107.tistory.com/215">git이 없어도, PR 댓글도, 코드 따라가기도: 리뷰 앱에 새로 넣은 것들 | ReviewGate 개발기 15편</a> · 2026-11-23
+- <a href="https://leesg107.tistory.com/214">기능은 그대로, 보이는 건 절반으로: 산만함과 불편함 걷어 내기 | ReviewGate 개발기 14편</a> · 2026-11-23
+- <a href="https://leesg107.tistory.com/207">진짜 Claude Code를 앱 안에 띄웠더니: 터미널 채팅 개편기 | ReviewGate 개발기 13편</a> · 2026-11-20<!-- BLOG-POST-LIST:END -->
 
 ---
 
